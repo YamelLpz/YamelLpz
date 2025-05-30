@@ -1,10 +1,45 @@
- ## 👋 Hi there my name is Rosario Yamel Lopez
+# 👋 Hi there! I'm **Rosario Yamel Lopez**
 
-<!--
-**YamelLpz/YamelLpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I´m Data Analyst with expertise in Python, SQL, and machine learning, specializing in workflow optimization and predictive analytics. With a strong background in tools like Jupyter Notebook and Markdown, he has demonstrated proficiency in structuring efficient scripts, managing errors, and enhancing compatibility between libraries such as Pandas and NumPy.
+[![GitHub followers](https://img.shields.io/github/followers/YamelLpz?style=social)](https://github.com/YamelLpz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/your-linkedin)
 
-- 🔭 I’m currently working on IT specialist and customer management
-- 🌱 I’m currently learning about Data Science
-- 👯 I’m looking to collaborate on Data engineer, Machine Learning, Bussines analys project
--->
+**YamelLpz/YamelLpz** is a ✨ Engineer and Data Scientis ✨ repository because its `README.md` appears on your GitHub profile.
+
+---
+
+## 🧠 About Me
+
+🎓 I'm a **Data Analyst** with expertise in **Python**, **SQL**, and **Machine Learning**, focusing on:
+
+- Workflow automation  
+- Predictive analytics  
+- Efficient scripting  
+- Error handling and compatibility across libraries like **Pandas** and **NumPy**
+
+---
+
+## 🚀 Currently
+
+- 🔭 Working as an **IT Specialist** and in customer management  
+- 🌱 Currently learning more about **Data Science**  
+- 🤝 Open to collaborate on projects related to:
+  - Data Engineering  
+  - Machine Learning  
+  - Business Analysis  
+
+---
+
+## 🛠 Technologies & Tools
+
+| Languages       | Tools & Environments           | Data Libraries         |
+|------------------|-------------------------------|------------------------|
+| 🐍 Python         | 🧪 Jupyter Notebook            | 🧮 NumPy, Pandas       |
+| 🛢 SQL            | 📄 Markdown                    | 📊 Matplotlib, Seaborn |
+| 💻 Bash           | 🔧 Git, GitHub                 | 🤖 Scikit-learn        |
+
+---
+
+## 📫 Where to Find Me
+
+- 💼 [LinkedIn](www.linkedin.com/in/rosario-yamel-lopez-calderon)
+- 🧑‍💻 [GitHub](https://github.com/YamelLpz)
